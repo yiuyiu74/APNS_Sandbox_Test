@@ -1,0 +1,24 @@
+{
+  "name": "DBTSL-Integration-NodeJS",
+  "version": "0.0.0",
+  "authors": [
+    "reid.lai@hkri.com"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "license": "Proprietary",
+  "homepage": "www.dbtsl.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "dojo": "~1.10.0",
+    "dojox": "~1.10.0"
+  }
+}
